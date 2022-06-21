@@ -8,9 +8,12 @@ resultado = (100 + 200 + 300) * 1.16;
 //incrementos
 let puntaje = 10;
 
+//Incremento en ++
+puntaje++; //10
+++puntaje; //12
 
-console.log(puntaje++);
-console.log(puntaje);
+puntaje--;
 
+console.log(--puntaje);
 
 
