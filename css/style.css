@@ -31,3 +31,9 @@ p {
 .hashtag {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.img{
+    float: unset;
+    display: block;
+    margin: auto;
+}
