@@ -23,3 +23,4 @@ if(rol === 'ADMINISTRADOR') {
     console.log('Eres editor, puedes entrar')
 } else 
     console.log('No tienes acceso')
+    

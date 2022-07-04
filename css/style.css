@@ -37,3 +37,12 @@ p {
     display: block;
     margin: auto;
 }
+
+.button1{
+    font-size: 1.2rem;
+    color: #4b6cb7;
+    float: unset;
+    margin: auto;
+    display: block;
+
+}
